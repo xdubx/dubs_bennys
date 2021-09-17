@@ -1,6 +1,7 @@
 # dubs_bennys
 
-A full implementation of the shops from the original GTA multiplayer with the native UI. The properties of the vehicles are generated dynamically for each vehicle. 
+A full implementation of the shops from the original GTA multiplayer with the native UI. The properties of the vehicles are generated dynamically for each vehicle.  
+You can modify the prices of each item in the config. You can select the language in the config. But must load it in the resouce.lua
 
 ----------
 # Support my work
@@ -15,11 +16,13 @@ Respect the Licence.
 
 # Download & Installation
 
-- Download https://github.com/xdubx/esx_bennys/archive/master.zip
+- Download https://github.com/xdubx/dubs_bennys/archive/refs/heads/master.zip
 - Put it in the [plugins] directory
 - Add this in your server.cfg:
+```
 start dubs_bennys
-
+```
+  
 # Dependencis
 - ESX (for the money management)
 - Native UI (https://github.com/MrMathias154/NativeUILua-Reloaded)
