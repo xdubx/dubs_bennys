@@ -25,7 +25,7 @@ start dubs_bennys
   
 # Dependencis
 - ESX (for the money management)
-- Native UI (https://github.com/MrMathias154/NativeUILua-Reloaded)
+- Native UI (https://github.com/iZerkahh/NativeUILua_Reloaded)
 
 -------------------------
 
